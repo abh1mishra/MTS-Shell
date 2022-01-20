@@ -1,0 +1,43 @@
+```
+Any updates, corrections, clarifications, and FAQs related to Project 4 will go here.
+
+Due date: Wednesday, Dec. 1st, 11:59pm.
+
+
+Update 11/5: [other] Added a rubric to the assignment on Blackboard.
+
+Update 11/6: [documentation] Fixed a typo: a reference to an obsolete shell.c was updated to say textproc.c.
+
+Clarification: Yes, if you use "active" to set it to the same buffer that is already active, you should still print the log message.
+
+Update 11/6: [documentation] Fixed a typo: a reference to an obsolete shell.c was updated to say textproc.c.
+
+Update 11/7: [documentation] Removed a misleading phrase from Appendix A regarding the contents of argv[0].  The only thing that argv[0] can contain is the name of the program to execute, or NULL.
+
+Update 11/7, 12:20pm: [handout] Updated Makefile and logging.c  in the project handout. The change has two effects:
+
+Removed some harmless warnings from the build of logging.c.
+Changed compiler options so that reaping code can correctly detect resumed/continued status changes.
+
+Update 11/5: [other] Added a rubric to the assignment on Blackboard.
+
+Update 11/6: [documentation] Fixed a typo: a reference to an obsolete shell.c was updated to say textproc.c.
+
+Update 11/7: [documentation] Removed a misleading phrase from Appendix A regarding the contents of argv[0].  The only thing that argv[0] can contain is the name of the program to execute, or NULL.
+
+Update 11/7, 12:20pm: [handout] Updated Makefile and logging.c  in the project handout. The change has two effects:
+
+Removed some harmless warnings from the build of logging.c.
+Changed compiler options so that reaping code can correctly detect resumed/continued status changes.
+Update 11/8: [documentation] The example for the "close" instruction was updated.
+
+The original version neglected to include a buffer activation message for buffer 3.
+Update 11/9: [documentation] Uploaded the wrong file in the previous upload; uploaded the right one this time.
+
+Clarification: Yes, if you use "active" to set it to the same buffer that is already active, you should still print the log message.
+
+Clarification: The debug output does not affect your project score.
+
+If you think it's useful to you, then keep it.
+If it's annoying, you can disable it by looking for the line #define DEBUG 1, and changing the 1 to a 0.
+#pin```
